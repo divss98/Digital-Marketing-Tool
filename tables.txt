@@ -1,0 +1,6 @@
+DM tool tables
+1. User_details- user_name,password, name, location,gender,age
+2.Admin_login- Admin_id, password
+3. Marketer_details- m_id,password,company,location
+4.User_Interest- user_name(foreign key),sport,SocialMedia,Genre,MobileApp
+5.Feedback- user_name(foreign key),feed_back
