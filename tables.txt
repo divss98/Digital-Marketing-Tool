@@ -1,4 +1,5 @@
-DM tool tables
+
+DM tool tables created in the oracle databse
 1. User_details- user_name,password, name, location,gender,age
 2.Admin_login- Admin_id, password
 3. Marketer_details- m_id,password,company,location
